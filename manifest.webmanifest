@@ -4,6 +4,7 @@
   "description": "فواتير وبيانات الأحواض",
   "lang": "ar",
   "dir": "rtl",
+  "id": "./",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
